@@ -1,0 +1,7 @@
+{
+  "name": "leiyu-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
